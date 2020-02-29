@@ -5705,7 +5705,7 @@ button {
   margin-bottom: 3rem;
   text-align: center;
 }
-.cover .forkMe {
+.cover .Me {
   position: absolute;
   z-index: 999;
   top: 0;
@@ -5803,7 +5803,7 @@ button {
   }
 }
 @media (max-width: 768px) {
-  .cover .forkMe {
+  .cover .Me {
     display: none;
   }
   .content.on {
